@@ -1,6 +1,6 @@
 # DESeq2 Heatmap Generator
 
-Client-side web app that parses DESeq2 output and renders a clustered, row-scaled heatmap with PDF export.
+Client-side web app that parses DESeq2 output with embeded expression columns and renders a clustered, row-scaled heatmap with PDF export.
 
 > [!NOTE]
 > **Expression values are read from columns strictly between `gene_name` and `baseMean`. Edit your file as necessary.**
